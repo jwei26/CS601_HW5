@@ -1,22 +1,16 @@
 {
     "degrees": [
         {
+            "school": "University of California, Santa Cruz",
+            "program": "Computer Science",
+            "type": "BA",
+            "year": 2022
+        },
+        {
             "school": "Boston University",
             "program": "Computer Science",
             "type": "MS",
-            "year": 2018
-        },
-        {
-            "school": "Stanford University",
-            "program": "Computer Science",
-            "type": "BS",
-            "year": 2020
-        },
-        {
-            "school": "Harvard University",
-            "program": "Computer Science",
-            "type": "MS",
-            "year": 2023
+            "year": 2024
         },
         {
             "school": "Massachusetts Institute of Technology",
